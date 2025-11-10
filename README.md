@@ -3,7 +3,7 @@
 I am a fullstack, all round software engineer, i keep learning because i haven't learnt enough.. learning never stops.. i have to know it all.
 
 - 🔭 I’m currently working on top secret projects guarded by classifications, NDA's and forces beyond imagination 😄.
-- 🌱 I’m currently learning IOT with javascript, bare metal programming etc.
+- 🌱 I’m currently learning IOT with javascript, Learning to write kernels and bare metal programming etc.
 - 👯 I’m looking to collaborate on new mind buggling ideas, as long as it's software related, i'm your man.
 - 💬 Ask me about the blockchain, cross-platform mobile apps, web applications, systems architectures, assembly, javascript, c and board games.
 - 📫 How to reach me: Look in the right places, and you would find me 😇, if i don't come looking for you myself 🌝
