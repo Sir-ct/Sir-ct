@@ -26,5 +26,5 @@ I am a fullstack, all round software engineer, i keep learning because i haven't
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=asm-hex&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-
-
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sir-ct&show_icons=true)
